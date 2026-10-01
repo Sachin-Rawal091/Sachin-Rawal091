@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **RAGwal**, a Wrapper on langchain and langgraph<br>- 🌱 I'm looking to collaborate on **AI/ML and data analysis projects**<br>- 🤝 I'm looking for help with **improving my MCP server architecture and deployment practices**<br>- 📚 I'm currently learning **advanced Machine Learning and LLM-based tooling**<br>- 💬 Ask me about **Python, Data Analysis, Django, or MCP servers**<br>- ⚡ Fun fact: **I've built a Chrome extension, an MCP server, and two data dashboards — all while still in undergrad**
+- 🔭 I'm currently working on **RAGwal**, a Wrapper on langchain and langgraph<br>- 🌱 I'm looking to collaborate on **AI/ML and data analysis projects**<br>- 🤝 I'm looking for help with **improving my MCP server architecture and deployment practices**<br>- 📚 I'm currently learning **Machine Learning and LLM-based tooling**<br>- 💬 Ask me about **Python, Data Analysis, Django, or MCP servers**<br>- ⚡ Fun fact: **I've built a Chrome extension, an MCP server, and two data dashboards — all while still in undergrad**
 
 # 💻 Tech Stack:
 **Languages**
